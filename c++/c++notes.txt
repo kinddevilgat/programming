@@ -1,1 +1,14 @@
-First program on c++
+First program on c++(In file c++.cpp)
+#include<iostream>
+using namespace std;
+int main(){
+  cout<<"hello world"<<endl;
+  return 0;
+}
+  
+hello world
+
+
+endl: end line
+;   :full stop for line of code
+
